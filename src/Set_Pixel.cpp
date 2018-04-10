@@ -28,7 +28,7 @@ int main(int argc, char *argv[])
 	    {
 	    for (int x = 0; x < Screen::SCREEN_WIDTH; x++) //work your way across screen
 		{
-		screen.setPixel(x, y, 0, 240, 255, 255);
+		screen.setPixel(x, y, 0, 245, 255, 255);
 		}
 	    }
 
